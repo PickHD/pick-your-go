@@ -2,7 +2,7 @@
 package cli
 
 import (
-	"pick-your-go/internal/cli/cmd"
+	"github.com/PickHD/pick-your-go/internal/cli/cmd"
 	"github.com/spf13/cobra"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"pick-your-go/internal/cli"
+	"github.com/PickHD/pick-your-go/internal/cli"
 )
 
 func main() {

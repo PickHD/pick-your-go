@@ -30,7 +30,7 @@ A powerful CLI tool to quickly scaffold production-ready Go projects with variou
 ### From Source
 
 ```bash
-git clone https://github.com/pickez/pick-your-go.git
+git clone https://github.com/PickHD/pick-your-go.git
 cd pick-your-go
 make install
 ```
@@ -38,7 +38,7 @@ make install
 ### Using Go
 
 ```bash
-go install github.com/pickez/pick-your-go/cmd/pick-your-go@latest
+go install github.com/PickHD/pick-your-go/cmd/pick-your-go@latest
 ```
 
 ## Prerequisites

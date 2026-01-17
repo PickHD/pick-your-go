@@ -4,9 +4,9 @@ package cmd
 import (
 	"fmt"
 
-	"pick-your-go/internal/config"
-	"pick-your-go/internal/generator"
-	"pick-your-go/pkg/ui"
+	"github.com/PickHD/pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/generator"
+	"github.com/PickHD/pick-your-go/pkg/ui"
 	"github.com/spf13/cobra"
 )
 

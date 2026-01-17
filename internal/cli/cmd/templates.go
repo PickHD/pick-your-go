@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"pick-your-go/internal/cache"
-	"pick-your-go/internal/template"
+	"github.com/PickHD/pick-your-go/internal/cache"
+	"github.com/PickHD/pick-your-go/internal/template"
 
 	"github.com/spf13/cobra"
 )

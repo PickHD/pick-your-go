@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"pick-your-go/internal/config"
-	"pick-your-go/internal/template"
+	"github.com/PickHD/pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/template"
 )
 
 // ModularGenerator generates projects with modular architecture

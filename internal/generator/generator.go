@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/config"
 )
 
 // Generator defines the interface for architecture-specific generators

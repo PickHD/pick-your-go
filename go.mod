@@ -1,4 +1,4 @@
-module pick-your-go
+module github.com/PickHD/pick-your-go
 
 go 1.25.1
 

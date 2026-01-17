@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/config"
 
 	"github.com/charmbracelet/huh"
 	"github.com/charmbracelet/lipgloss"

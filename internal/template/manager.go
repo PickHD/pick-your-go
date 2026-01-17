@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"pick-your-go/internal/cache"
-	"pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/cache"
+	"github.com/PickHD/pick-your-go/internal/config"
 )
 
 // Template represents a project template

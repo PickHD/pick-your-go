@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/config"
 )
 
 const (

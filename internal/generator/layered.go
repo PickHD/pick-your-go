@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"pick-your-go/internal/config"
-	"pick-your-go/internal/template"
+	"github.com/PickHD/pick-your-go/internal/config"
+	"github.com/PickHD/pick-your-go/internal/template"
 )
 
 // LayeredGenerator generates projects with layered architecture

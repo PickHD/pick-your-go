@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"pick-your-go/pkg/ui"
+	"github.com/PickHD/pick-your-go/pkg/ui"
 )
 
 func main() {
