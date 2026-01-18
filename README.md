@@ -43,7 +43,7 @@ go install github.com/PickHD/pick-your-go/cmd/pick-your-go@latest
 
 ## Prerequisites
 
-- Go 1.21 or higher
+- Go 1.25
 - Git
 - GitHub token (for accessing private template repositories)
 
@@ -161,7 +161,7 @@ Ports and adapters pattern for maximum decoupling:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pickez/pick-your-go.git
+git clone https://github.com/PickHD/pick-your-go.git
 cd pick-your-go
 
 # Install dependencies
@@ -211,7 +211,7 @@ pick-your-go/
 
 1. **Template Selection**: Choose an architecture pattern (layered/modular/hexagonal)
 2. **Configuration**: Provide project details via interactive form or flags
-3. **Template Retrieval**: Tool fetches the template from GitHub private repository
+3. **Template Retrieval**: Tool fetches the template from GitHub repository
 4. **Caching**: Template is cached locally for 24 hours to speed up subsequent projects
 5. **Generation**: Template is copied to your destination and customized with your project details
 6. **Import Path Updates**: All Go import paths in `.go` files are automatically updated from the template's module name to your project's module path
